@@ -1,3 +1,2 @@
 # AQI
-SOE course project
-Created together with Alexandra Tudorache
+SOE course project created together with Alexandra Tudorache
